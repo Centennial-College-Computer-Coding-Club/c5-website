@@ -1,2 +1,3 @@
-# c5-website
- c5 official website
+# Official C5 Website
+
+This is the official website for the Computer and Coding Club of Centennial College.
